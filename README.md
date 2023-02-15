@@ -42,3 +42,20 @@ Mitsuha.mp3为所播放音乐名。
 
 ## 三、运行截图
 
+![运行截图1](https://github.com/imrewang/RealizeMusicVisualization/blob/main/screenshot/11.png?raw=true)
+
+![运行截图2](https://github.com/imrewang/RealizeMusicVisualization/blob/main/screenshot/12.png?raw=true)
+
+## 四、参考文献
+
+librosa.load：https://librosa.org/doc/latest/generated/librosa.load.html
+
+pygame.display：https://www.pygame.org/docs/ref/display.html
+
+pygame.time：https://www.pygame.org/docs/ref/time.html
+
+pygame.mixer：https://www.pygame.org/docs/ref/mixer.html
+
+pygame.event：https://www.pygame.org/docs/ref/event.html
+
+
